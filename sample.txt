@@ -2,3 +2,4 @@ test
 add foo bar
 bbbbb
 add This command register to  index with changed part.
+Commit is to record the state of the index. 
