@@ -1,3 +1,4 @@
 test
 add foo bar
 bbbbb
+add This command register to  index with changed part.
