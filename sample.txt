@@ -2,3 +2,4 @@ test
 add foo bar
 bbbbb
 add This command register to  index with changed part.
+pull, This command get data from a remote repository.
