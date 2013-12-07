@@ -1,6 +1,6 @@
 test
 add foo bar
-a
+ab
 add This command register to  index with changed part.
 Commit is to record the state of the index. 
 pull, This command get data from a remote repository.
